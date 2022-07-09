@@ -1,0 +1,2 @@
+1.Accept 2 numbers from the user thr" command line argument. Display division of 2 numbers. Handle all the exceptions that can be thrown.
+2.Accept array size and elements from user and populate the array. Accept index number from the user and display the element at that index. Handle necessay exception.
