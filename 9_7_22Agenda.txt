@@ -1,0 +1,29 @@
+
+IT Solution------> By Project Team
+			Team
+			Plan
+			Schedule
+			Tools
+			Methodology ( SDM )------( Agile Methodology)
+						 ( Scrum)
+			
+	Git Hub
+		is a repository hosting service.
+		
+		SCM: Source Control Management
+
+		Collaboration
+				Communication + Exchange 
+		
+		Central Code Repository
+		Bug Tracking
+		Project Management
+		Branching
+		Team Management
+
+
+	Git:
+		Client Application
+			
+
+	
